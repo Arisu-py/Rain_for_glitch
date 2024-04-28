@@ -1,0 +1,42 @@
+p {
+color: white;
+font-size: 18px;
+}
+h1 {
+color:white
+}
+h2 {
+color:white
+}
+h3 {
+color:white
+}
+input {
+ background-color: black;
+ color: white;
+ resize : none;
+}
+textarea {
+ font-size: 24px;
+ background-color: black;
+ color: white;
+ resize : none;
+ position: absolute/fixed
+}
+button {
+ background-color: red;
+ color: white;
+ float: right;.
+ position: absolute/fixed.
+}
+body {
+background-color: black;
+}
+.navbar {
+font-family: "matura mt script capitals", "Arial", sans-serif;
+--bs-navbar-active-color: red;
+--bs-navbar-brand-color: red;
+--bs-navbar-brand-hover-color: #960019;
+--bs-navbar-hover-color: #960019;
+--bs-navbar-color: red;
+}
